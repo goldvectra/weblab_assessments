@@ -1,0 +1,12 @@
+P.Class1 {font-weight:  bold;}
+P.Class2 {font: 12px;}
+P.Class3 {font-style: italic;}
+P.Class4 {margin: 2em;}
+P.Class5 { border-bottom:   1px solid lightgray;}
+P.Class6 {color #999;}
+
+h1 {
+    text-align: Center;
+    border-bottom: 2px groove #ffffff;
+    font-family:  Arial;
+}
